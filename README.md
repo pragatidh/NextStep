@@ -7,4 +7,5 @@ Actively under development ⚡
 - *Frontend:* React / HTML / CSS / JS
 - *Backend:* Node.js / Express  
 - *Database:* MySQL  
-- *Other tools:* Git, Docker, REST APIs  
+- *Other tools:* Git, Docker, REST APIs
+  
